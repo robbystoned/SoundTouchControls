@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;private static void playPreset3FM()&apos; from &apos;nl.robbystoned.soundtouch.SoundTouchController.main()&apos; to &apos;nl.robbystoned.soundtouch.SoundTouchController&apos;&#x0A;- Original project: &apos;SoundTouchControl&apos;&#x0A;- Method name: &apos;playPreset3FM&apos;&#x0A;- Destination type: &apos;nl.robbystoned.soundtouch.SoundTouchController&apos;&#x0A;- Declared visibility: &apos;private&apos;" comments="false" description="Extract method &apos;playPreset3FM&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src&lt;nl.robbystoned.soundtouch{SoundTouchController.java" name="playPreset3FM" replace="false" selection="248 1024" stamp="1459800928148" version="1.0" visibility="2"/>
+</session>
